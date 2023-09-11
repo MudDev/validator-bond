@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/validator-bond/static/css/main.6ab76526.css",
+    "main.js": "/validator-bond/static/js/main.3709e616.js",
+    "index.html": "/validator-bond/index.html",
+    "main.6ab76526.css.map": "/validator-bond/static/css/main.6ab76526.css.map",
+    "main.3709e616.js.map": "/validator-bond/static/js/main.3709e616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab76526.css",
+    "static/js/main.3709e616.js"
+  ]
+}
