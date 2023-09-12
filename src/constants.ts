@@ -1,8 +1,8 @@
 export const CosmosChainInfo = {
   chainId: "theta-testnet-001",
   chainName: "theta-testnet-001",
-  rpc: "https://rpc.sentry-01.theta-testnet.polypore.xyz:443",
-  rest: "https://rest.sentry-01.theta-testnet.polypore.xyz:443",
+  rpc: "https://rpc.state-sync-01.theta-testnet.polypore.xyz:443",
+  rest: "https://rest.state-sync-01.theta-testnet.polypore.xyz:443",
   bip44: {
       coinType: 118,
   },
